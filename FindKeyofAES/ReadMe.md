@@ -1,5 +1,5 @@
 ## Prerequisites:
-Put all the files in a same folder, including “makefile”, “FindKeyofAES.java”, “words.txt” and “ciphertext6.bin”.
+Put all the files in a same folder, including “makefile”, “FindKeyofAES.java”, “words.txt” and “ciphertext.bin”.
 ## How to compile the code?
 Execute make command on the ISRIS server.
 ## How to run the code?
